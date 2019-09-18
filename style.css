@@ -1,0 +1,11 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+h1{
+    margin-top: auto;
+    color: #ff9d6b;
+}
+
+body{
+    background-color: #ffe2d4;
+}
